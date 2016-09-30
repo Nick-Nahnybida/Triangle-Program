@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\bin\Debug\Triangle Program.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\bin\Debug\Triangle Program.exe
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\bin\Debug\Triangle Program.pdb
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\bin\Debug\Triangle Program.xml
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle_Program.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle_Program.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle Program.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle Program.exe
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle Program.xml
+C:\Users\nn137422\Documents\Visual Basic\Triangle Program\Triangle Program\obj\Debug\Triangle Program.pdb
